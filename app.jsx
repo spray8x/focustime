@@ -22,7 +22,7 @@ export default function StudyPomodoroApp() {
   const [isLoadingPlaylist, setIsLoadingPlaylist] = useState(false);
   
   // Add your YouTube API key here:
-  const API_KEY = 'YOUR_API_KEY_HERE';
+  const API_KEY = 'AIzaSyAmX9h3hg3dYgyKwTFn_D7ybL417wycfsM';
 
   useEffect(() => {
     const tag = document.createElement('script');
